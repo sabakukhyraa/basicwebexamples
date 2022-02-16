@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    font-family: 'Lucida Sans';
+}
+
+
+
+header {
+    background-color: #1D3C41;
+    color: white;
+    text-align: center;
+    padding: 60px;
+}
+
+
+
+.intro {
+    text-align: center;
+    margin: 45px auto;
+    width: 500px;
+}
+
+
+
+.myskills {
+    background-color: #588C94;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+
+
+.column {
+    margin: 45px auto;
+}
+
+
+
+footer {
+    background-color: #112a2e;
+}
+
+
+
+.signature {
+    padding: 10px;
+    color: aquamarine;
+}
+
+
+
+footer li{
+    display: inline-block;
+    margin: 35px;
+    list-style: none;
+}
+
+
+
+footer ul, .signature{
+    text-align: center;
+}
+
+
+
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
+
+h1 {
+    font-size: 80px;
+}
+
+
+
+h2 {
+    font-size: 30px;
+}
+
+
+
+p {
+    font-size: 15px;
+}
